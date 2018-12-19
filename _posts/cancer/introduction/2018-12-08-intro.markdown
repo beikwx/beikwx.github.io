@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "[introduction]ARK激酶抑制剂抗癌"
+date:   2018-12-08 21:00:00 +0800
+tags: JMC cancer introduction
+author: 向远航
+---
+
+##### 原文标题：[Discovery and Characterization of AZD6738, a Potent Inhibitor of Ataxia Telangiectasia Mutated and Rad3 Related (ATR) Kinase with Application as an Anticancer Agent][artical_url]
+
+> Human cells are constantly exposed to DNA-damage events as a result of environmental and endogenous factors. In order to suppress genomic instability, an integrated group of biological pathways collectively called the DNA-damage response (DDR) has evolved to recognize, signal, and promote the repair of damaged DNA.
+
+1. constantly adv.经常
+2. endogenous n.内源性
+
+由于环境和内源性因素，人类细胞常常发生DNA损伤。为了抑制基因的不稳定性，一条叫做DNA损伤响应（DDR）的生物通路起到了识别、信号传递和促进损伤DNA的修复的作用。
+
+> DNA-damage leads to cell death if sufficiently high and left unrepaired and is the concept behind DDR inhibition for cancer therapy. Tumor cells are sensitized to DDR based therapies through a combination of relatively rapid proliferation and DDR pathways that may already be functionally compromised.
+
+过多的DNA损伤会导致细胞死亡，这是抑制DDR通路可以用于癌症治疗的一种假说。肿瘤细胞对DDR途径的治疗敏感是因为肿瘤的快速增殖导致肿瘤细胞在DNA损伤响应通路上进行了一定的妥协。（肿瘤的DDR有缺陷）
+
+>  Ataxia telangiectasia and rad3-related (ATR) is a serine/threonine-protein kinase belonging to the phosphatidylinositol 3-kinase-related kinase (PIKK) family of proteins and is a key regulator of DNA replication stress response (RSR) and DNA-damage activated checkpoints.
+
+ATR是一类丝氨酸/苏氨酸激酶，属于PIKK家族蛋白。ATR是DNA复制应激和DNA损伤激活检查点的关键调控者（ATR很NB）。
+
+> Replication stress, a hallmark of cancer, may occur in tumors through oncogene drivers or induced exogenously through treatment with DNA-damaging drugs or ionizing radiation (IR). Persistent replication stress leads to DNA breaks that, if left unresolved, are highly toxic to cells.
+
+1. hallmark n.特点
+2. oncogene n.致癌基因
+3. exogenously adv.外源的
+
+癌症的特点，复制应激，可以通过癌基因驱动或者由外源DNA损伤药物或者离子辐射在肿瘤中产生。如果没有解决，持续的复制应激对细胞具有高度的毒性。（肿瘤中的复制应激太多可以杀癌细胞）
+
+> In recent years potent and selective inhibitors of ATR have been developed from orthogonal chemical series demonstrating preclinical in vivo proof of concept. These pivotal compounds and studies have been extensively reviewed and reveal synthetic lethality of ATR inhibitors on tumors with p53-mutations or ataxia telangiectasia mutated (ATM) loss-of-function, as well as synergy in combination with a broad range of replication stress inducing chemotherapy agents such as platinums, ionizing radiation and with novel agents such as the PARP inhibitor olaparib.
+
+1. orthogonal chemical 正交化学
+2. pivotal adj.关键的
+3. synergy n.协同效应
+4. lethality n.杀伤力
+5. platinums n.铂类
+
+近年来，有潜力和选择性的ATR抑制剂已经通过正交化学得到了发展，并且在临床前的体内实验得到了证明。这些关键的化合物和研究已经得到了总结，并且在P53突变或者ATM功能丢失的肿瘤上表现出协同杀伤的作用。同时和许多诱导复制应激的化疗药比如铂类、离子辐射和新型PARP抑制剂olaparib有协同作用。（ATR抑制剂很NB）
+
+ART抑制剂：其中2、3、4已经进入了临床研究
+
+![ART抑制剂](https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jmcmar/2018/jmcmar.2018.61.issue-22/acs.jmedchem.8b01187/20181119/images/large/jm-2018-01187z_0008.jpeg)
+
+> We have previously described a series of potent and selective ATR inhibitors, exemplified by 1 (AZ20), from the sulfonylmethyl morpholinopyrimidine series. Compound 1 and close analogues were shown to inhibit the growth of ATM-deficient xenograft models at well tolerated doses. However, we did not consider compound 1 of sufficient quality for further development due to low aqueous solubility and high risk for drug–drug interactions (DDI) resulting from cytochrome P450 3A4 (CYP3A4) time-dependent inhibition (TDI).
+
+1. xenograft n.异种移植
+
+我们之前报道了一个潜在的选择性ATR抑制剂（上图1），一种磺酰甲基吗啉代嘧啶。这些类似物在可接受的浓度下，对ATM缺乏的异种移植模型生长有抑制作用。但是，我们没有考虑到化合物1的低水溶性和由于CYP3A4的时间依赖产生的药物相互作用的高风险，不便于以后的研究。（之前没做好，我们继续研究，不是闹着玩的）
+
+> In this report we describe our further studies to identify ATR inhibitors with the requisite properties suitable for clinical development that led to the discovery of 2 (AZD6738). The sulfoximine morpholinopyrimidine 2, along with the aminopyrazine 3 (berzosertib, M-6620/VX-970), originating from Vertex and licensed to Merck KGaA, and most recently the naphthyridine 4 (BAY 1895344) from Bayer(18) have entered human studies. These compounds are being explored in early phase clinical trials as single agents and in combination with standard of care (SOC) and novel agents.
+
+1. requisite adj.必要的
+
+在这里我们报道了我们之后的研究，我们确定了一种必要的属性以适合进行临床研究，所以发现了2。化合物2、3、4都进入了人们的研究。这些化合物已经过了早期临床试验，包括单个化合物和结合常用的普通药物。（已经上临床了！）
+
+[artical_url]: https://pubs.acs.org/doi/full/10.1021/acs.jmedchem.8b01187

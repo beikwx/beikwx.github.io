@@ -1,0 +1,50 @@
+# Basic
+title: Sail
+subtitle: 存在，创造价值
+welcome_message: 欢迎来到我的博客，一起学习药物化学。
+description: 我是向远航，一个喜欢写代码的药学生。
+creator: <a href="https://beikwx.top">@beikwx</a>
+
+url: "https://beikwx.top"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: blue
+
+# The blog button should not be removed.
+blog_button:
+    title: 博客
+    description: 我的博客
+
+# Navigation buttons in the front page.
+nav:
+    - {title: 项目, description: 访问我的项目, url: 'https://github.com/beikwx/Sail_vina_2.0'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
+plugins: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: beikwx
+    # duoshuo: 
+    
+# Social
+social:
+    weibo: beikwx
+    github: beikwx
+    twitter: beikwx
+    gplus: 118209086531722310414
+    mail: studyforever0225@gmail.com
+
+# Google Analytics
+google_analytics: UA-130253624-1
+#ga:
+#    # id: your_ga_id
+#    # host: your_host
