@@ -3,7 +3,7 @@ layout: post
 title:  "[introduction]ARK激酶抑制剂抗癌"
 date:   2018-12-08 21:00:00 +0800
 tags: JMC cancer introduction
-author: 向远航
+excerpt: 原文标题：Discovery and Characterization of AZD6738, a Potent Inhibitor of Ataxia Telangiectasia Mutated and Rad3 Related (ATR) Kinase with Application as an Anticancer Agent
 ---
 
 ##### 原文标题：[Discovery and Characterization of AZD6738, a Potent Inhibitor of Ataxia Telangiectasia Mutated and Rad3 Related (ATR) Kinase with Application as an Anticancer Agent][artical_url]

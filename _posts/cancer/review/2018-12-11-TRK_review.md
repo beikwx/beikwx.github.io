@@ -2,8 +2,8 @@
 layout: post
 title:  "TRK抑制剂综述"
 date:   2018-12-11 21:00:00 +0800
-categories: JMC cancer review
-author: 向远航
+tags: JMC cancer review
+excerpt:  原文标题：Insights into Current Tropomyosin Receptor Kinase (TRK) Inhibitors： Development and Clinical Application
 ---
 
 ##### 原文标题：[Insights into Current Tropomyosin Receptor Kinase (TRK) Inhibitors: Development and Clinical Application][artical_url]
