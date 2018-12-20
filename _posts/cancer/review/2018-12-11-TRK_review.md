@@ -2,7 +2,7 @@
 layout: post
 title:  "TRK抑制剂综述"
 date:   2018-12-11 21:00:00 +0800
-tags: JMC cancer review
+tags: literature
 excerpt:  原文标题：Insights into Current Tropomyosin Receptor Kinase (TRK) Inhibitors： Development and Clinical Application
 ---
 
@@ -87,5 +87,29 @@ TRK家族有三个成员：TRKA、TRKB、TRKC，这些都涉及到恶性肿瘤�
 1. phosphoryl transfer 磷酰基转移
 
 一般来说，小分子设计来进入TRK的ATP结合位点去阻止催化活性。这是基于蛋白激酶催化磷酰基转移下游物质，所以对ATP的结合是微摩尔级别。因为ATP转移是快速的，所以激酶对ATP的结合很弱，小分子可以很高效的抑制TRK尽管内源ATP的浓度十分高。正是由于TRK类酶的高度可成药性，许多以TRK为靶点的药物已经完成了。在这片展望中，我们讨论了当前TRK为靶点的癌症治疗的发展和临床应用。
+
+#### TRK Biology and Signaling
+
+> The TRK oncogene was initially discovered in colon cancer in which the cytoskeletal protein tropomyosin was fused to an unknown catalytically active kinase domain. Further studies identified the kinase as a single-pass receptor tyrosine kinase expressed in the developing central nervous system and was given the name tropomyosin receptor kinase.
+
+TRK癌基因最早在结肠癌中发现，它的细胞骨架原肌球蛋白和一种未知催化活性的激酶域发生融合。之后的研究表明这个激酶是一种单程受体酪氨酸激酶，他在中心神经系统的发展中进行表达，所以给他命名为原肌球蛋白受体激酶。
+
+> In the extracellular region of TRK, there is a leucine-rich motif, two cysteine-rich domains, and two immunoglobulin-like domains and all are essential for ligand recognition and binding.
+
+在TRK的外面，由一个亮氨酸富集的模体，两个半胱氨酸富集的结构域，两个免疫球样的结构域，这些对配体的识别和结合是必要的。
+
+> Unlike typical RTKs, the TRK intracellular region is small and comprised of roughly 70 amino acids before and 15 amino acids after the kinase domain. In comparison to other RTKs, TRK is most similar to the insulin receptor and has been implicated in insulin signaling.
+
+1. comprise v.包含
+2. insulin n.胰岛素
+3. implicated v.牵连
+
+和一般的RTK家族不一样，TRK外域很小，在激酶结构域前大概由70个氨基酸，后大概由15个氨基酸。和其他TRK比较，TRK最像胰岛素受体，并且也关系到胰岛素信号通路。
+
+> The TRK family is comprised of three distinct isoforms:TRKA, TRKB, and TRKC. A major difference among all three isoforms is the ligand that activates the receptor.
+
+TRK家族包括三种不同的亚型，TRKA,TRKB,TRKC。他们之间主要的区别就是激活受体的配体不一样。
+
+![信号通路](/assets/images/20181211/01.jpg)
 
 [artical_url]: https://pubs.acs.org/doi/10.1021/acs.jmedchem.8b01092
