@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "[Nature Medicine]潜在长效小分子HIV-1衣壳抑制剂"
+date:   2019-10-01 21:00:00 +0800
+tags: abstract
+excerpt: 原文标题：A highly potent long-acting small-molecule HIV-1 capsid inhibitor with efficacy in a humanized mouse model
+---
+
+##### 原文标题：[A highly potent long-acting small-molecule HIV-1 capsid inhibitor with efficacy in a humanized mouse model][artical_url]
+
+People living with HIV (PLWH) have expressed concern about the life-long burden and stigma associated with taking pills daily and can experience medication fatigue that might lead to suboptimal treatment adherence and the emergence of drug-resistant viral variants, thereby limiting future treatment options.
+ 
+ 1. sigma n.瑕疵
+ 2. fatigue n.疲劳
+ 3. suboptimal adj.次优
+ 4. adherence n.附着
+ 5. viral variants 病毒变体
+ 
+患有HIV的人们(PLWH)对于终身服用药物带来的负担和瑕疵感到担忧，并且长期服药有可能出现耐药性，使药物效果下降及产生耐药性的病毒变体，这都限制了人们未来对于HIV治疗的选择。
+ 
+As such, there is strong interest in long-acting antiretroviral (ARV) agents that can be administered less frequently.
+ 
+ 1. long-acting 长效
+ 2. antiretroviral 抗逆转录病毒
+ 
+因此，人们对可以减少给药频率的长效抗逆转录病毒（ARV）药物非常感兴趣。
+  
+Herein, we report GS-CA1, a new archetypal small-molecule HIV capsid inhibitor with exceptional potency against HIV-2 and all major HIV-1 types, including viral variants resistant to the ARVs currently in clinical use.
+
+1. archetypal n.原型
+2. capsid n.衣壳(核酸或核蛋白核心周围的病毒颗粒的蛋白质外壳或外壳)
+3. exceptional adj.优秀的
+
+在此，我们报道了GS-CA1，这是一种新的原型小分子HIV衣壳抑制剂，对HIV-2和所有主要HIV-1类型具有出色的功效，包括对目前在临床上使用的ARV耐药的病毒变体。
+
+![GS-CA1结构][1]
+
+Mechanism-of-action studies indicate that GS-CA1 binds directly to the HIV-1 capsid and interferes with capsid-mediated nuclear import of viral DNA, HIV particle production and ordered capsid assembly.
+
+作用机理研究表明，GS-CA1直接与HIV-1衣壳结合，并干扰衣壳介导的病毒DNA核的输入，HIV颗粒的产生和有序衣壳的集合。
+
+GS-CA1 selects in vitro for unfit GS-CA1-resistant capsid variants that remain fully susceptible to other classes of ARVs.
+
+1. susceptible adj.易感的
+
+在体外不适合GS-CA1-拮抗的衣壳变异体的GS-CA1中，仍然对其他类别的ARV完全敏感。
+
+Its high metabolic stability and low solubility enabled sustained drug release in mice following a single subcutaneous dosing.
+
+1. subcutaneous n.皮下
+
+由于GS-CA1的高度代谢稳定性和低溶解性，在小鼠单次皮下给药下可以持续释放药物。
+
+GS-CA1 showed high antiviral efficacy as a long-acting injectable monotherapy in a humanized mouse model of HIV-1 infection, outperforming long-acting rilpivirine.
+
+1. rilpivirine n.利匹韦林
+
+在人性化小鼠HIV-1感染模型中，单药物治疗下，相比于长效利匹韦林，GS-CA1表现出更好的抗病毒效果。
+
+Collectively, these results demonstrate the potential of ultrapotent capsid inhibitors as new long-acting agents for the treatment of HIV-1 infection.
+
+总的来说，强力衣壳抑制剂是潜在的长效治疗HIV-1感染的药物。
+
+[artical_url]: https://www.nature.com/articles/s41591-019-0560-x
+[1]: /assets/images/20191001/GS-CA1.png
